@@ -5,8 +5,8 @@
 /.pnp
 .pnp.js
 
-# api
-/firebase
+#contains api key
+firebase.js
 
 # testing
 /coverage
